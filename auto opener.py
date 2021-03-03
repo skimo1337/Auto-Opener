@@ -5,7 +5,7 @@ import os
 
 
 root=tk.Tk()
-root.title("Nigger")
+root.title("AutoOpener")
 
 apps = []
 
